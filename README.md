@@ -2,6 +2,9 @@
 
 This project is part of the **Codebasics Resume Challenge**, where I take on the role of **Peter Pandey**, a data analyst for AtliQ Motors, to conduct a detailed market study of the EV/Hybrid vehicle market in India. The goal is to provide actionable insights to help AtliQ Motors expand its presence in India, where its current market share is **less than 2%**.
 
+![Dashboard Preview](EVI.jpg)
+![Dashboard Preview2](EVI_Overview.jpg)
+
 ---
 
 ## **Problem Statement**
